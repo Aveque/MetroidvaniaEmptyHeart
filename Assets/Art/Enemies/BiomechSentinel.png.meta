@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 84e674e3c459ade468880de50d6c1aad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7656775210948854715
+    second: BiomechSentinel_0
+  - first:
+      213: -993090388948115304
+    second: BiomechSentinel_1
+  - first:
+      213: 7274696155522302936
+    second: BiomechSentinel_2
+  - first:
+      213: -7220841368681271842
+    second: BiomechSentinel_3
+  - first:
+      213: -2294738344826624995
+    second: BiomechSentinel_4
+  - first:
+      213: -2767121481623413411
+    second: BiomechSentinel_5
+  - first:
+      213: -4640684125874671525
+    second: BiomechSentinel_6
+  - first:
+      213: 8337270202677419114
+    second: BiomechSentinel_7
+  - first:
+      213: -6129918541486794439
+    second: BiomechSentinel_8
+  - first:
+      213: -4204676152124733420
+    second: BiomechSentinel_9
+  - first:
+      213: -4733300217409021853
+    second: BiomechSentinel_10
+  - first:
+      213: 3054196492879689123
+    second: BiomechSentinel_11
+  - first:
+      213: -1263290634792711905
+    second: BiomechSentinel_12
+  - first:
+      213: -1262304095011588152
+    second: BiomechSentinel_13
+  - first:
+      213: 1264982343077702535
+    second: BiomechSentinel_14
+  - first:
+      213: -8347216965044766985
+    second: BiomechSentinel_15
+  - first:
+      213: 5051765397650127936
+    second: BiomechSentinel_16
+  - first:
+      213: 5219924277933557398
+    second: BiomechSentinel_17
+  - first:
+      213: -8706226285031236609
+    second: BiomechSentinel_18
+  - first:
+      213: -8532841425587582142
+    second: BiomechSentinel_19
+  - first:
+      213: 1508842222894593024
+    second: BiomechSentinel_20
+  - first:
+      213: 2347805614139188438
+    second: BiomechSentinel_21
+  - first:
+      213: -6610486679523705735
+    second: BiomechSentinel_22
+  - first:
+      213: -502385063031170901
+    second: BiomechSentinel_23
+  - first:
+      213: 8897669397148673247
+    second: BiomechSentinel_24
+  - first:
+      213: 2898121981534303862
+    second: BiomechSentinel_25
+  - first:
+      213: -166815569538024515
+    second: BiomechSentinel_26
+  - first:
+      213: 325421249661289528
+    second: BiomechSentinel_27
+  - first:
+      213: -214722933498378804
+    second: BiomechSentinel_28
+  - first:
+      213: -8377214891380803333
+    second: BiomechSentinel_29
+  - first:
+      213: -3345444513073737938
+    second: BiomechSentinel_30
+  - first:
+      213: 2647866194048168008
+    second: BiomechSentinel_31
+  - first:
+      213: 4402279035913738904
+    second: BiomechSentinel_32
+  - first:
+      213: -1919850208934665297
+    second: BiomechSentinel_33
+  - first:
+      213: 4411661431198028169
+    second: BiomechSentinel_34
+  - first:
+      213: -1454649390402426053
+    second: BiomechSentinel_35
+  - first:
+      213: -4839847485014178121
+    second: BiomechSentinel_36
+  - first:
+      213: -4949396974970460633
+    second: BiomechSentinel_37
+  - first:
+      213: -338912126143967120
+    second: BiomechSentinel_38
+  - first:
+      213: 7851669156675733490
+    second: BiomechSentinel_39
+  - first:
+      213: -8096661797252021049
+    second: BiomechSentinel_40
+  - first:
+      213: -6194716574086062462
+    second: BiomechSentinel_41
+  - first:
+      213: -7464328886691925518
+    second: BiomechSentinel_42
+  - first:
+      213: -7921176751507202729
+    second: BiomechSentinel_43
+  - first:
+      213: -6081885956919076713
+    second: BiomechSentinel_44
+  - first:
+      213: 6056369874058548112
+    second: BiomechSentinel_45
+  - first:
+      213: 5806155791381064737
+    second: BiomechSentinel_46
+  - first:
+      213: 7208827159857723875
+    second: BiomechSentinel_47
+  - first:
+      213: -9098543612252835853
+    second: BiomechSentinel_48
+  - first:
+      213: 8932381029375234460
+    second: BiomechSentinel_49
+  - first:
+      213: -904945773754131080
+    second: BiomechSentinel_50
+  - first:
+      213: 5689012947819691016
+    second: BiomechSentinel_51
+  - first:
+      213: 1570261323562747970
+    second: BiomechSentinel_52
+  - first:
+      213: -7344669581659983410
+    second: BiomechSentinel_53
+  - first:
+      213: 794378410416713904
+    second: BiomechSentinel_54
+  - first:
+      213: 6573788906755701674
+    second: BiomechSentinel_55
+  - first:
+      213: -8099654930987230346
+    second: BiomechSentinel_56
+  - first:
+      213: 5041689817350456497
+    second: BiomechSentinel_57
+  - first:
+      213: -3315316214054459039
+    second: BiomechSentinel_58
+  - first:
+      213: -414583124205971901
+    second: BiomechSentinel_59
+  - first:
+      213: 6427513150565601247
+    second: BiomechSentinel_60
+  - first:
+      213: -2437919031388861622
+    second: BiomechSentinel_61
+  - first:
+      213: -7531617450048156317
+    second: BiomechSentinel_62
+  - first:
+      213: -169370156732119136
+    second: BiomechSentinel_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 450
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BiomechSentinel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1505
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb38f9dac74524a60800000000000000
+      internalID: 7656775210948854715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_1
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1007
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890a4e88d85d732f0800000000000000
+      internalID: -993090388948115304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_2
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 988
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d38ec64c99e4f460800000000000000
+      internalID: 7274696155522302936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_3
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 983
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddae48680b6acb90800000000000000
+      internalID: -7220841368681271842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_4
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 953
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14242822a37720e0800000000000000
+      internalID: -2294738344826624995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_5
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 969
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ddb7d5ca53999d0800000000000000
+      internalID: -2767121481623413411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_6
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 974
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50327aff5af89fb0800000000000000
+      internalID: -4640684125874671525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_7
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 975
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c590b931fe3b370800000000000000
+      internalID: 8337270202677419114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_8
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 941
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939599070972eeaa0800000000000000
+      internalID: -6129918541486794439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_9
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 957
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4188c05215df5a5c0800000000000000
+      internalID: -4204676152124733420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_10
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 957
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3685e06c780ff4eb0800000000000000
+      internalID: -4733300217409021853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_11
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 954
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a57658478fa26a20800000000000000
+      internalID: 3054196492879689123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_12
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 961
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f194a116cd3e77ee0800000000000000
+      internalID: -1263290634792711905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_13
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 929
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c730521d156b7ee0800000000000000
+      internalID: -1262304095011588152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_14
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 941
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ba9462dbe1e8110800000000000000
+      internalID: 1264982343077702535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_15
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 939
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6746f456ab82c80800000000000000
+      internalID: -8347216965044766985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_16
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 919
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cbb8f1dd97b1640800000000000000
+      internalID: 5051765397650127936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_17
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 911
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696caa47975e07840800000000000000
+      internalID: 5219924277933557398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_18
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 883
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb5b8242554d2780800000000000000
+      internalID: -8706226285031236609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 870
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b4d1faee1459980800000000000000
+      internalID: -8532841425587582142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_20
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 661
+        width: 101
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0043ebde10c70f410800000000000000
+      internalID: 1508842222894593024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_21
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 651
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d42f6054c4159020800000000000000
+      internalID: 2347805614139188438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_22
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 621
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cb98a8365d244a0800000000000000
+      internalID: -6610486679523705735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_23
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 533
+        width: 75
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba89099627b2709f0800000000000000
+      internalID: -502385063031170901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_24
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 561
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd429e1cc2fda7b70800000000000000
+      internalID: 8897669397148673247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 427
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6767a195692383820800000000000000
+      internalID: 2898121981534303862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_26
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 303
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb7ea29f1a5fadf0800000000000000
+      internalID: -166815569538024515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 263
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834cc6407e0248400800000000000000
+      internalID: 325421249661289528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc503bf21a6250df0800000000000000
+      internalID: -214722933498378804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 89
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf87220d0772ebb80800000000000000
+      internalID: -8377214891380803333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_30
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 113
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fc576b0f79291d0800000000000000
+      internalID: -3345444513073737938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_31
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 97
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840b105464c1fb420800000000000000
+      internalID: 2647866194048168008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_32
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 97
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a99c97579081d30800000000000000
+      internalID: 4402279035913738904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_33
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 101
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa36d7228625b55e0800000000000000
+      internalID: -1919850208934665297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_34
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 107
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98199db92be593d30800000000000000
+      internalID: 4411661431198028169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 95
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b2354261c00dbe0800000000000000
+      internalID: -1454649390402426053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_36
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 78
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b689a0ea5865dcb0800000000000000
+      internalID: -4839847485014178121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_37
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 57
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7262e7e9ca5305bb0800000000000000
+      internalID: -4949396974970460633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_38
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 101
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070dd178731fb4bf0800000000000000
+      internalID: -338912126143967120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_39
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 95
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f74c818f7bb6fc60800000000000000
+      internalID: 7851669156675733490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 79
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4415c4ef0e2af80800000000000000
+      internalID: -8096661797252021049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 59
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e106dc812f70aa0800000000000000
+      internalID: -6194716574086062462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_42
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 79
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f17a0edc60696890800000000000000
+      internalID: -7464328886691925518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_43
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 79
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d945376b3521290800000000000000
+      internalID: -7921176751507202729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_44
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 47
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798d66502fcc89ba0800000000000000
+      internalID: -6081885956919076713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_45
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 61
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09313abff4c8c0450800000000000000
+      internalID: 6056369874058548112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_46
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 31
+        width: 97
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c68df0eeb939050800000000000000
+      internalID: 5806155791381064737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_47
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 76
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9f18e9b16ea0460800000000000000
+      internalID: 7208827159857723875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_48
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 65
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff25427aca7bb180800000000000000
+      internalID: -9098543612252835853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 43
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91595e683136fb70800000000000000
+      internalID: 8932381029375234460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_50
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 29
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dd4660d9cf073f0800000000000000
+      internalID: -904945773754131080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_51
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 33
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cf365622f63fe40800000000000000
+      internalID: 5689012947819691016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_52
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2480e7baa50bac510800000000000000
+      internalID: 1570261323562747970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_53
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 43
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec13a80eded721a90800000000000000
+      internalID: -7344669581659983410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_54
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 38
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0b02a94f2360b00800000000000000
+      internalID: 794378410416713904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_55
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabb3976e2aca3b50800000000000000
+      internalID: 6573788906755701674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_56
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 13
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bd34b01ce389f80800000000000000
+      internalID: -8099654930987230346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_57
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 13
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4c0e64d2ea7f540800000000000000
+      internalID: 5041689817350456497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_58
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169e037f771adf1d0800000000000000
+      internalID: -3315316214054459039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_59
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 11
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346d4d758da1f3af0800000000000000
+      internalID: -414583124205971901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_60
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 19
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf4d90f72d133950800000000000000
+      internalID: 6427513150565601247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_61
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 7
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b07eebe85ca2ed0800000000000000
+      internalID: -2437919031388861622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_62
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 15
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d0fb955d15a7790800000000000000
+      internalID: -7531617450048156317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiomechSentinel_63
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a70e646db646adf0800000000000000
+      internalID: -169370156732119136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BiomechSentinel_0: 7656775210948854715
+      BiomechSentinel_1: -993090388948115304
+      BiomechSentinel_10: -4733300217409021853
+      BiomechSentinel_11: 3054196492879689123
+      BiomechSentinel_12: -1263290634792711905
+      BiomechSentinel_13: -1262304095011588152
+      BiomechSentinel_14: 1264982343077702535
+      BiomechSentinel_15: -8347216965044766985
+      BiomechSentinel_16: 5051765397650127936
+      BiomechSentinel_17: 5219924277933557398
+      BiomechSentinel_18: -8706226285031236609
+      BiomechSentinel_19: -8532841425587582142
+      BiomechSentinel_2: 7274696155522302936
+      BiomechSentinel_20: 1508842222894593024
+      BiomechSentinel_21: 2347805614139188438
+      BiomechSentinel_22: -6610486679523705735
+      BiomechSentinel_23: -502385063031170901
+      BiomechSentinel_24: 8897669397148673247
+      BiomechSentinel_25: 2898121981534303862
+      BiomechSentinel_26: -166815569538024515
+      BiomechSentinel_27: 325421249661289528
+      BiomechSentinel_28: -214722933498378804
+      BiomechSentinel_29: -8377214891380803333
+      BiomechSentinel_3: -7220841368681271842
+      BiomechSentinel_30: -3345444513073737938
+      BiomechSentinel_31: 2647866194048168008
+      BiomechSentinel_32: 4402279035913738904
+      BiomechSentinel_33: -1919850208934665297
+      BiomechSentinel_34: 4411661431198028169
+      BiomechSentinel_35: -1454649390402426053
+      BiomechSentinel_36: -4839847485014178121
+      BiomechSentinel_37: -4949396974970460633
+      BiomechSentinel_38: -338912126143967120
+      BiomechSentinel_39: 7851669156675733490
+      BiomechSentinel_4: -2294738344826624995
+      BiomechSentinel_40: -8096661797252021049
+      BiomechSentinel_41: -6194716574086062462
+      BiomechSentinel_42: -7464328886691925518
+      BiomechSentinel_43: -7921176751507202729
+      BiomechSentinel_44: -6081885956919076713
+      BiomechSentinel_45: 6056369874058548112
+      BiomechSentinel_46: 5806155791381064737
+      BiomechSentinel_47: 7208827159857723875
+      BiomechSentinel_48: -9098543612252835853
+      BiomechSentinel_49: 8932381029375234460
+      BiomechSentinel_5: -2767121481623413411
+      BiomechSentinel_50: -904945773754131080
+      BiomechSentinel_51: 5689012947819691016
+      BiomechSentinel_52: 1570261323562747970
+      BiomechSentinel_53: -7344669581659983410
+      BiomechSentinel_54: 794378410416713904
+      BiomechSentinel_55: 6573788906755701674
+      BiomechSentinel_56: -8099654930987230346
+      BiomechSentinel_57: 5041689817350456497
+      BiomechSentinel_58: -3315316214054459039
+      BiomechSentinel_59: -414583124205971901
+      BiomechSentinel_6: -4640684125874671525
+      BiomechSentinel_60: 6427513150565601247
+      BiomechSentinel_61: -2437919031388861622
+      BiomechSentinel_62: -7531617450048156317
+      BiomechSentinel_63: -169370156732119136
+      BiomechSentinel_7: 8337270202677419114
+      BiomechSentinel_8: -6129918541486794439
+      BiomechSentinel_9: -4204676152124733420
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

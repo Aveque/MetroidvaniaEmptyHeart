@@ -1,0 +1,26 @@
+EMPTY HEART — ORIGINAL SYNTHESIZED SCORE
+Quiet Circuit: 76 BPM, D minor, ambient pads, sparse bell motif and reactor-like bass.
+Iron Bloom: 112 BPM, related motif, pulsing bass, plucked strings and industrial drums.
+Both cues: 32 bars, stereo 44.1 kHz PCM master, circular reverb tails for continuous loops.
+Composed and synthesized for this project, no third-party samples or recordings.
+
+[
+  {
+    "file": "EchoStation_QuietCircuit.wav",
+    "seconds": 101.053,
+    "bpm": 76,
+    "bars": 32,
+    "peak_dbfs": -2.16,
+    "rms_dbfs": -14.83,
+    "boundary_step": 0.00930745154619217
+  },
+  {
+    "file": "Gardener07_IronBloom.wav",
+    "seconds": 68.571,
+    "bpm": 112,
+    "bars": 32,
+    "peak_dbfs": -2.16,
+    "rms_dbfs": -14.54,
+    "boundary_step": 0.008046500384807587
+  }
+]

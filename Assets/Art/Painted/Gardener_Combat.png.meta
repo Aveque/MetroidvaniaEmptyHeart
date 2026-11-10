@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 8e283e7c983d22342ab8c412b01a665f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7983484625275785242
+    second: Gardener_Combat_0
+  - first:
+      213: 7706346846437761454
+    second: Gardener_Combat_1
+  - first:
+      213: 8207515534210857309
+    second: Gardener_Combat_2
+  - first:
+      213: -7616913466209648700
+    second: Gardener_Combat_3
+  - first:
+      213: 5734045463110400523
+    second: Gardener_Combat_4
+  - first:
+      213: -7220741017612970711
+    second: Gardener_Combat_5
+  - first:
+      213: 5224953640984292457
+    second: Gardener_Combat_6
+  - first:
+      213: -7220816971978426847
+    second: Gardener_Combat_7
+  - first:
+      213: 8528647952541615466
+    second: Gardener_Combat_8
+  - first:
+      213: 5577031213717743039
+    second: Gardener_Combat_9
+  - first:
+      213: 4918131512005802001
+    second: Gardener_Combat_10
+  - first:
+      213: -8627178854166701463
+    second: Gardener_Combat_11
+  - first:
+      213: -6647764468212875992
+    second: Gardener_Combat_12
+  - first:
+      213: 3856307795637118221
+    second: Gardener_Combat_13
+  - first:
+      213: 6791736497030071187
+    second: Gardener_Combat_14
+  - first:
+      213: 8813641369382872775
+    second: Gardener_Combat_15
+  - first:
+      213: 2201855760223889671
+    second: Gardener_Combat_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gardener_Combat_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 601
+        width: 335
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efe4a81807f43190800000000000000
+      internalID: -7983484625275785242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 977
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1efd970a172fa60800000000000000
+      internalID: 7706346846437761454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 676
+        width: 853
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d597321a4e3f6e170800000000000000
+      internalID: 8207515534210857309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_3
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 991
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf3fa10f894b4690800000000000000
+      internalID: -7616913466209648700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_4
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 683
+        width: 366
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ab2aae7fb639f40800000000000000
+      internalID: 5734045463110400523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 942
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92516163d46cacb90800000000000000
+      internalID: -7220741017612970711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 669
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ca0ca47a3c28840800000000000000
+      internalID: 5224953640984292457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 671
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1263d15b8318acb90800000000000000
+      internalID: -7220816971978426847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 1162
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a650b994028db5670800000000000000
+      internalID: 8528647952541615466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_9
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 668
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb569ea2758956d40800000000000000
+      internalID: 5577031213717743039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_10
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 672
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118b2c38d86b04440800000000000000
+      internalID: 4918131512005802001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 610
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ad1a77a8a164880800000000000000
+      internalID: -8627178854166701463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 589
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d35b100756eb3a0800000000000000
+      internalID: -6647764468212875992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 599
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05258f228b548530800000000000000
+      internalID: 3856307795637118221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 377
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39388812c58114e50800000000000000
+      internalID: 6791736497030071187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 596
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6e0c7f028505a70800000000000000
+      internalID: 8813641369382872775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Combat_16
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 343
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709eac2e5209e8e10800000000000000
+      internalID: 2201855760223889671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gardener_Combat_0: -7983484625275785242
+      Gardener_Combat_1: 7706346846437761454
+      Gardener_Combat_10: 4918131512005802001
+      Gardener_Combat_11: -8627178854166701463
+      Gardener_Combat_12: -6647764468212875992
+      Gardener_Combat_13: 3856307795637118221
+      Gardener_Combat_14: 6791736497030071187
+      Gardener_Combat_15: 8813641369382872775
+      Gardener_Combat_16: 2201855760223889671
+      Gardener_Combat_2: 8207515534210857309
+      Gardener_Combat_3: -7616913466209648700
+      Gardener_Combat_4: 5734045463110400523
+      Gardener_Combat_5: -7220741017612970711
+      Gardener_Combat_6: 5224953640984292457
+      Gardener_Combat_7: -7220816971978426847
+      Gardener_Combat_8: 8528647952541615466
+      Gardener_Combat_9: 5577031213717743039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

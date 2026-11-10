@@ -8,6 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/StationEcho.unity
+    guid: 7f4e232939c42a84f9c0acb283abf6d5
+  - enabled: 1
+    path: Assets/Scenes/StationEcho_Organic.unity
+    guid: 172d5d4a716605340ba88ef52b43db1d
+  - enabled: 1
+    path: Assets/Scenes/VascularThreshold.unity
+    guid: 99058516643015040b673b8912d3958a
   m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

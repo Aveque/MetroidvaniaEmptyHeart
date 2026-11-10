@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 800725fab99282a4ca5237c3e6d62f19, type: 3}
+  m_Name: Steel service grating
+  m_EditorClassIdentifier: Assembly-CSharp::StationMaterialTile
+  surfaces:
+  - {fileID: -1042080086, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  - {fileID: -1842357838, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  - {fileID: -1489156725, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  - {fileID: -2004073232, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  - {fileID: 176693746, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  - {fileID: 693887540, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  - {fileID: -1584281003, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  - {fileID: -335779978, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  - {fileID: 287983390, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  - {fileID: 1727153140, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  - {fileID: -1831099800, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  - {fileID: -525012768, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  - {fileID: -61859526, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  - {fileID: -1761649026, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  - {fileID: -1145890823, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  - {fileID: 291919238, guid: f54e5c92af94e6343a3495bd8e076e19, type: 3}
+  Interior: {fileID: 21300000, guid: 08dd3c11bd8a1c54daafef06779b6e03, type: 3}
+  Tint: {r: 0.72, g: 0.79, b: 0.79, a: 1}
+  GratingDeck: 1

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: f097909c9c61e324f9825458a94760c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8352386786877429692
+    second: expedition-remains_0
+  - first:
+      213: 8787848097839312407
+    second: expedition-remains_1
+  - first:
+      213: -8362371831185746810
+    second: expedition-remains_2
+  - first:
+      213: 7704023680946063635
+    second: expedition-remains_3
+  - first:
+      213: 8698520338907293800
+    second: expedition-remains_4
+  - first:
+      213: -8888367587356676739
+    second: expedition-remains_5
+  - first:
+      213: 1661712352773507908
+    second: expedition-remains_6
+  - first:
+      213: -794659800782078425
+    second: expedition-remains_7
+  - first:
+      213: 1303414249707079081
+    second: expedition-remains_8
+  - first:
+      213: 4577452176460118150
+    second: expedition-remains_9
+  - first:
+      213: 8383188970039055357
+    second: expedition-remains_10
+  - first:
+      213: 7978773830941673074
+    second: expedition-remains_11
+  - first:
+      213: -146525334118662594
+    second: expedition-remains_12
+  - first:
+      213: -429261259959202980
+    second: expedition-remains_13
+  - first:
+      213: -6532384591972989382
+    second: expedition-remains_14
+  - first:
+      213: -300938080998683986
+    second: expedition-remains_15
+  - first:
+      213: -1920800851252426274
+    second: expedition-remains_16
+  - first:
+      213: 7264647579262734876
+    second: expedition-remains_17
+  - first:
+      213: -8252498952646862050
+    second: expedition-remains_18
+  - first:
+      213: -7465590934473196127
+    second: expedition-remains_19
+  - first:
+      213: -4077131830002981093
+    second: expedition-remains_20
+  - first:
+      213: -594377426869783326
+    second: expedition-remains_21
+  - first:
+      213: -2975308713941438059
+    second: expedition-remains_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: expedition-remains_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 923
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448218d587c561c80800000000000000
+      internalID: -8352386786877429692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_1
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 926
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eedc3f845b4f970800000000000000
+      internalID: 8787848097839312407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1653
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684d0721023e2fb80800000000000000
+      internalID: -8362371831185746810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_3
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 904
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319ccfb58b03aea60800000000000000
+      internalID: 7704023680946063635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 904
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8686418592a57b870800000000000000
+      internalID: 8698520338907293800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_5
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 863
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d628a95cc26a480800000000000000
+      internalID: -8888367587356676739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_6
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 813
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b81f9a4969f0710800000000000000
+      internalID: 1661712352773507908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 39
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ef9191f1dc8f4f0800000000000000
+      internalID: -794659800782078425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 55
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a509f4ba58a61210800000000000000
+      internalID: 1303414249707079081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 49
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6887e3a8080668f30800000000000000
+      internalID: 4577452176460118150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 47
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df39624c3f1175470800000000000000
+      internalID: 8383188970039055357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 63
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2760670a68c4abe60800000000000000
+      internalID: 7978773830941673074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 44
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ef2452cff67fdf0800000000000000
+      internalID: -146525334118662594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b8b4c8825fa0af0800000000000000
+      internalID: -429261259959202980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 13
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36073bd2de4855a0800000000000000
+      internalID: -6532384591972989382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_15
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa8fa6e86ad2dbf0800000000000000
+      internalID: -300938080998683986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9c4d87dc1f755e0800000000000000
+      internalID: -1920800851252426274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_17
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c125b5ccb7631d460800000000000000
+      internalID: 7264647579262734876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_18
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 14
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b533a1deb397d80800000000000000
+      internalID: -8252498952646862050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad39587994e46890800000000000000
+      internalID: -7465590934473196127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_20
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 21
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17eb32c33e1b67c0800000000000000
+      internalID: -4077131830002981093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_21
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 9
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e47ae021e850c7f0800000000000000
+      internalID: -594377426869783326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expedition-remains_22
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 8
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59175601d7495b6d0800000000000000
+      internalID: -2975308713941438059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      expedition-remains_0: -8352386786877429692
+      expedition-remains_1: 8787848097839312407
+      expedition-remains_10: 8383188970039055357
+      expedition-remains_11: 7978773830941673074
+      expedition-remains_12: -146525334118662594
+      expedition-remains_13: -429261259959202980
+      expedition-remains_14: -6532384591972989382
+      expedition-remains_15: -300938080998683986
+      expedition-remains_16: -1920800851252426274
+      expedition-remains_17: 7264647579262734876
+      expedition-remains_18: -8252498952646862050
+      expedition-remains_19: -7465590934473196127
+      expedition-remains_2: -8362371831185746810
+      expedition-remains_20: -4077131830002981093
+      expedition-remains_21: -594377426869783326
+      expedition-remains_22: -2975308713941438059
+      expedition-remains_3: 7704023680946063635
+      expedition-remains_4: 8698520338907293800
+      expedition-remains_5: -8888367587356676739
+      expedition-remains_6: 1661712352773507908
+      expedition-remains_7: -794659800782078425
+      expedition-remains_8: 1303414249707079081
+      expedition-remains_9: 4577452176460118150
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

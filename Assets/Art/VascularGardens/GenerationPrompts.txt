@@ -1,0 +1,7 @@
+Generated with the built-in image_gen tool.
+
+Conservatory.png:
+Use case: stylized-concept. Asset type: wide background painting for dark hand painted 2D side scrolling biomechanical metroidvania. An enormous abandoned botanical conservatory inside a biomechanical station, ribbed iron arches overtaken by ancient twisting roots, dense ferns, translucent hanging seed pods fed by copper capillaries, distant turquoise nutrient waterfalls and green haze. Layered depth, cinematic chiaroscuro, muted olive foliage and oxidized copper, pale green bioluminescent buds. Straight side-on view, no characters, no UI, no text. Continuous environment across a wide horizontal composition, no foreground floor or platforms: playable silhouettes will be placed separately. Painterly natural materials, finely rendered but readable masses, NOT pixel art. Save artwork locally for Unity project integration.
+
+RootButtress.png (transparent_background=true):
+Use case: stylized-concept. Unity 2D game environment asset, isolated transparent cutout of one enormous botanical root buttress: arched braided woody roots split open an oxidized copper nutrient pipe, lush fern fronds and a few pale luminous seed pods growing from the pipe joints. Dark hand painted 2D illustration, biomechanical abandoned greenhouse, muted forest green, aged bronze, soft jade lights. Side-on game view, rooted broad base, tall arching silhouette, no floor, no backdrop, no text, fully contained with transparent margins.

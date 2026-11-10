@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 8c61efd298cb9994ebee1ce3b22f481c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6642010097980995502
+    second: StationDistrictProps_0
+  - first:
+      213: -760510430935160733
+    second: StationDistrictProps_1
+  - first:
+      213: -5928666843447849067
+    second: StationDistrictProps_2
+  - first:
+      213: -6489663916672933809
+    second: StationDistrictProps_3
+  - first:
+      213: 8717620357261958829
+    second: StationDistrictProps_4
+  - first:
+      213: 6317906537802225548
+    second: StationDistrictProps_5
+  - first:
+      213: 5557150814563487485
+    second: StationDistrictProps_6
+  - first:
+      213: 3492573969513992057
+    second: StationDistrictProps_7
+  - first:
+      213: -1227240923677000004
+    second: StationDistrictProps_8
+  - first:
+      213: 8534183292008762889
+    second: StationDistrictProps_9
+  - first:
+      213: 4695830599804385297
+    second: StationDistrictProps_10
+  - first:
+      213: 2349752245786938921
+    second: StationDistrictProps_11
+  - first:
+      213: 5082089371547824634
+    second: StationDistrictProps_12
+  - first:
+      213: 947682921844575705
+    second: StationDistrictProps_13
+  - first:
+      213: -5672786001394178112
+    second: StationDistrictProps_14
+  - first:
+      213: -2130326756186626473
+    second: StationDistrictProps_15
+  - first:
+      213: 851030097871980964
+    second: StationDistrictProps_16
+  - first:
+      213: -1660618600270063699
+    second: StationDistrictProps_17
+  - first:
+      213: 74731692242056156
+    second: StationDistrictProps_18
+  - first:
+      213: 8598473928997134434
+    second: StationDistrictProps_19
+  - first:
+      213: 1259836730410684538
+    second: StationDistrictProps_20
+  - first:
+      213: -8246853563323080177
+    second: StationDistrictProps_21
+  - first:
+      213: -2590373554445162759
+    second: StationDistrictProps_22
+  - first:
+      213: 4128924402321498860
+    second: StationDistrictProps_23
+  - first:
+      213: 5609691400300643418
+    second: StationDistrictProps_24
+  - first:
+      213: 6644325451426501944
+    second: StationDistrictProps_25
+  - first:
+      213: 4170417870597591371
+    second: StationDistrictProps_26
+  - first:
+      213: -6632572513308639704
+    second: StationDistrictProps_27
+  - first:
+      213: 9176822814196714411
+    second: StationDistrictProps_28
+  - first:
+      213: 3357747188259320501
+    second: StationDistrictProps_29
+  - first:
+      213: -7084493499801397784
+    second: StationDistrictProps_30
+  - first:
+      213: -5428913145396821316
+    second: StationDistrictProps_31
+  - first:
+      213: -6693692106736710694
+    second: StationDistrictProps_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StationDistrictProps_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 571
+        height: 1013
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258094bb107d2d3a0800000000000000
+      internalID: -6642010097980995502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_1
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 829
+        width: 85
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368612cdacf1275f0800000000000000
+      internalID: -760510430935160733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_2
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 957
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f87a4dae429bda0800000000000000
+      internalID: -5928666843447849067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_3
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 719
+        width: 83
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f402a0f2d0510f5a0800000000000000
+      internalID: -6489663916672933809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_4
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 465
+        width: 451
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae1059e6853bf870800000000000000
+      internalID: 8717620357261958829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_5
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 787
+        width: 95
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87d1ddb586bda750800000000000000
+      internalID: 6317906537802225548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_6
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 998
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe44590937fe1d40800000000000000
+      internalID: 5557150814563487485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 531
+        width: 483
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f48a4558d187030800000000000000
+      internalID: 3492573969513992057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_8
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 942
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbef862d1e6f7fee0800000000000000
+      internalID: -1227240923677000004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_9
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 941
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e8140fc728f6670800000000000000
+      internalID: 8534183292008762889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_10
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 931
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118ffba0d01fa2140800000000000000
+      internalID: 4695830599804385297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 943
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e8e40d73ffb9020800000000000000
+      internalID: 2349752245786938921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_12
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 935
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af175eb7b55378640800000000000000
+      internalID: 5082089371547824634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 931
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd004ca898d62d00800000000000000
+      internalID: 947682921844575705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_14
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 929
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7671cff273641b0800000000000000
+      internalID: -5672786001394178112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_15
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 931
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7566cf92a1f8f62e0800000000000000
+      internalID: -2130326756186626473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_16
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 897
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a943d47d577fcb00800000000000000
+      internalID: 851030097871980964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 745
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da71f7f6e2c44f8e0800000000000000
+      internalID: -1660618600270063699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_18
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 677
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd33d810410890100800000000000000
+      internalID: 74731692242056156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_19
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 517
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260e4545b7ae35770800000000000000
+      internalID: 8598473928997134434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_20
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 485
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a705e17d4d6db7110800000000000000
+      internalID: 1259836730410684538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 486
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02a67bb06a4d8d80800000000000000
+      internalID: -8246853563323080177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_22
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 465
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6eab30af42d0cd0800000000000000
+      internalID: -2590373554445162759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_23
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 21
+        width: 431
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2a0d03ed2ec4930800000000000000
+      internalID: 4128924402321498860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_24
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 485
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54cb7e6b90a9dd40800000000000000
+      internalID: 5609691400300643418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_25
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 481
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8351d508bc2653c50800000000000000
+      internalID: 6644325451426501944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_26
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 474
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4119ed15fc40e930800000000000000
+      internalID: 4170417870597591371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_27
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 11
+        width: 499
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ef735a07e54f3a0800000000000000
+      internalID: -6632572513308639704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_28
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 319
+        width: 113
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab45e68abf9a5f70800000000000000
+      internalID: 9176822814196714411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_29
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 361
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b273c1174d199e20800000000000000
+      internalID: 3357747188259320501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_30
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 229
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e516ca72b2dead90800000000000000
+      internalID: -7084493499801397784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_31
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 217
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb28c240240a8a4b0800000000000000
+      internalID: -5428913145396821316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StationDistrictProps_32
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 127
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb4f1e5e7a3b13a0800000000000000
+      internalID: -6693692106736710694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StationDistrictProps_0: -6642010097980995502
+      StationDistrictProps_1: -760510430935160733
+      StationDistrictProps_10: 4695830599804385297
+      StationDistrictProps_11: 2349752245786938921
+      StationDistrictProps_12: 5082089371547824634
+      StationDistrictProps_13: 947682921844575705
+      StationDistrictProps_14: -5672786001394178112
+      StationDistrictProps_15: -2130326756186626473
+      StationDistrictProps_16: 851030097871980964
+      StationDistrictProps_17: -1660618600270063699
+      StationDistrictProps_18: 74731692242056156
+      StationDistrictProps_19: 8598473928997134434
+      StationDistrictProps_2: -5928666843447849067
+      StationDistrictProps_20: 1259836730410684538
+      StationDistrictProps_21: -8246853563323080177
+      StationDistrictProps_22: -2590373554445162759
+      StationDistrictProps_23: 4128924402321498860
+      StationDistrictProps_24: 5609691400300643418
+      StationDistrictProps_25: 6644325451426501944
+      StationDistrictProps_26: 4170417870597591371
+      StationDistrictProps_27: -6632572513308639704
+      StationDistrictProps_28: 9176822814196714411
+      StationDistrictProps_29: 3357747188259320501
+      StationDistrictProps_3: -6489663916672933809
+      StationDistrictProps_30: -7084493499801397784
+      StationDistrictProps_31: -5428913145396821316
+      StationDistrictProps_32: -6693692106736710694
+      StationDistrictProps_4: 8717620357261958829
+      StationDistrictProps_5: 6317906537802225548
+      StationDistrictProps_6: 5557150814563487485
+      StationDistrictProps_7: 3492573969513992057
+      StationDistrictProps_8: -1227240923677000004
+      StationDistrictProps_9: 8534183292008762889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+# Wall cling revision 2
+
+Built-in image generation with the exact original idle sprite as the authoritative style reference. Final frames use the original idle palette and an opaque footprint no larger than 25x43 pixels. The full atlas is 128x128, split into four 64x64 cells; transparent margins do not increase character detail. Runtime asset: `Assets/Art/Player/WallCling.png`. Revised source: `WallCling_Source_v2.png`.
+
+Pogo speed reduced from 12 to 5 world units per second. At gravity 9.81 this changes ideal rise from 7.34 to 1.27 world units.
+
+## Prompt 1
+
+Use case: style-transfer
+Asset type: Unity pixel-art hero wall-slide animation sprite sheet
+Input images: Image 1 is the EXACT ORIGINAL idle sprite, authoritative for proportions, style, colors, pixel clusters and identity. Image 2 is the OLD wall animation, pose reference ONLY, its style and large head must be replaced.
+Primary request: redraw four wall-bracing animation frames to match Image 1 almost pixel-for-pixel in style. Preserve its very small head (about 5 pixels wide, 6 high), slim long-legged adult body, small narrow shoulders, muted dark colors, red short scarf/cape, dark hair, brown boots and curved silver sword. The original standing hero has an opaque footprint 25 by 43 pixels. Each new pose must have a footprint no more than 25 pixels wide by 43 pixels high, excluding transparent padding. No enlarged face, no facial features beyond one or two pixels, no cartoon or chibi proportions, no huge arm muscles, no long flowing ribbon, no new outfit.
+Pose: strict side view FACING RIGHT. Torso close to imaginary wall on right, rightward palm braced near face height, front boot braced at same wall plane, rear knee bent, other hand holds sword pointing down near body. Short red cape hangs close behind upper back. Four-frame loop: slight breathing, knee flex and 1-pixel cloth variation. Palm and front boot contact x coordinate stays fixed. All frames same identity, scale, framing and height. Retain original player's restrained shading, small isolated highlights and narrow angular limbs.
+Layout: exactly four sprites in a strict 2-column by 2-row grid with equal square cells and no gutters or dividers; same aligned center/pivot. Work as 64x64 logical-pixel cells with character only 25x43 logical pixels, enlarged by integer nearest-neighbor for output. Hard visible square pixels, no smoothing, no antialiasing, no gradients or glow. 12-20 colors sampled from Image 1 only. True transparent background, no wall, floor, shadow, text, labels, effects, watermark or additional objects.
+
+## Targeted correction prompt
+
+Use case: style-transfer. Image 1 is edit target: the four wall-cling sprites. Image 2 is the exact original 25x43-pixel hero and authoritative style reference. Apply ONE correction across all four frames: make this the slender adult of Image 2. Shrink each head and hair to 55 percent of its present width and height, preserve neck connection, lengthen the legs and slim all limbs, darken skin and clothing to exactly Image 2's muted colors. Keep the wall pose, sword, four cells, contact points, transparent background and loop consistency. Remove all visible eye or facial detail; the entire face is just a tiny few-pixel tan patch under dark hair. Shorten scarf so it stays close to the back, as on original. This is tiny game pixel art, head only 4-5 logical pixels wide and 6 logical pixels high in a 43-pixel character. No chibi/cartoon appearance. No modern illustration or block shading at high resolution. Use the original sprite's narrow angular pixel clusters, understated red scarf and long thin boots. All sprites face right. Exactly four frames in an aligned 2x2 grid, no background, text, wall, ground, shadow, divider or new elements.

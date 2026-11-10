@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 766ff7690f6c7b748a68d4403b9eba57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6036742973013032126
+    second: HeroParts_Painted_0
+  - first:
+      213: -833936539110240764
+    second: HeroParts_Painted_1
+  - first:
+      213: 8668260068152848194
+    second: HeroParts_Painted_2
+  - first:
+      213: -2454891901338700507
+    second: HeroParts_Painted_3
+  - first:
+      213: -7475635471710434560
+    second: HeroParts_Painted_4
+  - first:
+      213: -5913569599471672128
+    second: HeroParts_Painted_5
+  - first:
+      213: -3466725912159733228
+    second: HeroParts_Painted_6
+  - first:
+      213: -4318283281486749963
+    second: HeroParts_Painted_7
+  - first:
+      213: 8866361538227176103
+    second: HeroParts_Painted_8
+  - first:
+      213: -9063682993216489161
+    second: HeroParts_Painted_9
+  - first:
+      213: 4162659709734409134
+    second: HeroParts_Painted_10
+  - first:
+      213: 7721004873985886730
+    second: HeroParts_Painted_11
+  - first:
+      213: -8802189266971919056
+    second: HeroParts_Painted_12
+  - first:
+      213: -8755121911026138180
+    second: HeroParts_Painted_13
+  - first:
+      213: 4326440091029818478
+    second: HeroParts_Painted_14
+  - first:
+      213: 8751944157925453029
+    second: HeroParts_Painted_15
+  - first:
+      213: 3797466469281638656
+    second: HeroParts_Painted_16
+  - first:
+      213: 8712000233743058825
+    second: HeroParts_Painted_17
+  - first:
+      213: 6596750370919400178
+    second: HeroParts_Painted_18
+  - first:
+      213: 3673161586745746849
+    second: HeroParts_Painted_19
+  - first:
+      213: -8961624467994155577
+    second: HeroParts_Painted_20
+  - first:
+      213: -670763422958760264
+    second: HeroParts_Painted_21
+  - first:
+      213: -4234846254934729234
+    second: HeroParts_Painted_22
+  - first:
+      213: 7946726901466037472
+    second: HeroParts_Painted_23
+  - first:
+      213: -406995068869008746
+    second: HeroParts_Painted_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 337
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroPart_Painted_00
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 855
+        width: 237
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933cb1ed5c4d92f4dbaf6ba21a3ddc90
+      internalID: 692338648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroPart_Painted_01
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 750
+        width: 216
+        height: 333
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a439668b580ac4cbe73e84f9f84592
+      internalID: -170456257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroPart_Painted_02
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 747
+        width: 286
+        height: 296
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72391ccdbbc91584db6853a459917a79
+      internalID: -2093589940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroPart_Painted_03
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 740
+        width: 110
+        height: 340
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99470a80ca9170499badb5aad4043c6
+      internalID: -1886132851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroPart_Painted_04
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 393
+        width: 103
+        height: 332
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232efdd4b31e53142a06c828cfaf2ec7
+      internalID: 1954595631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroPart_Painted_05
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 388
+        width: 168
+        height: 334
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09867a431ba8fc845bd58dfba4c29122
+      internalID: 1111297074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroPart_Painted_06
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 402
+        width: 103
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92de6bf4d777b474ba6c0c619731487d
+      internalID: 666785534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroPart_Painted_07
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 417
+        width: 237
+        height: 235
+      alignment: 9
+      pivot: {x: 0.25, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe12b6a27fe85034781baf916c683c0e
+      internalID: 1312178849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroPart_Painted_08
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 36
+        width: 46
+        height: 349
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67803acb1ddf86459ed1c8049b7519c
+      internalID: 421692056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroPart_Painted_09
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 122
+        width: 338
+        height: 195
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f703a85ba0df5448cf438fec89e1d8
+      internalID: 1524058762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroPart_Painted_10
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 22
+        width: 225
+        height: 360
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bfdf3db9e5b4040b1fa21ca737fcac
+      internalID: 1266491529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroPart_Painted_11
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 80
+        width: 90
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ec74c572904fc4595513142dfaa489
+      internalID: -1433154391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 95064c73128ae544e806de31f308d651
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroPart_Painted_00: 692338648
+      HeroPart_Painted_01: -170456257
+      HeroPart_Painted_02: -2093589940
+      HeroPart_Painted_03: -1886132851
+      HeroPart_Painted_04: 1954595631
+      HeroPart_Painted_05: 1111297074
+      HeroPart_Painted_06: 666785534
+      HeroPart_Painted_07: 1312178849
+      HeroPart_Painted_08: 421692056
+      HeroPart_Painted_09: 1524058762
+      HeroPart_Painted_10: 1266491529
+      HeroPart_Painted_11: -1433154391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

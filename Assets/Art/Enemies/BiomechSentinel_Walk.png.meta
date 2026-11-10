@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: 1894046c43aaf084cb7f26b3ed8d602a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5968060187024592743
+    second: BiomechSentinel_Walk_0
+  - first:
+      213: 1269086095624341296
+    second: BiomechSentinel_Walk_1
+  - first:
+      213: 1230131987589227145
+    second: BiomechSentinel_Walk_2
+  - first:
+      213: 8559711322816756224
+    second: BiomechSentinel_Walk_3
+  - first:
+      213: -4101070673969827835
+    second: BiomechSentinel_Walk_4
+  - first:
+      213: 5577734748145927062
+    second: BiomechSentinel_Walk_5
+  - first:
+      213: -5216449434395666170
+    second: BiomechSentinel_Walk_6
+  - first:
+      213: 719387781643650001
+    second: BiomechSentinel_Walk_7
+  - first:
+      213: -1673431436302995426
+    second: BiomechSentinel_Walk_8
+  - first:
+      213: 4373003319376605803
+    second: BiomechSentinel_Walk_9
+  - first:
+      213: -8213157247407070963
+    second: BiomechSentinel_Walk_10
+  - first:
+      213: -3737892323350834747
+    second: BiomechSentinel_Walk_11
+  - first:
+      213: 343270956496503699
+    second: BiomechSentinel_Walk_12
+  - first:
+      213: -6336779392407427082
+    second: BiomechSentinel_Walk_13
+  - first:
+      213: -3161118188563393243
+    second: BiomechSentinel_Walk_14
+  - first:
+      213: 3012442290036023720
+    second: BiomechSentinel_Walk_15
+  - first:
+      213: -4035249459218680338
+    second: BiomechSentinel_Walk_16
+  - first:
+      213: -3093196096162020383
+    second: BiomechSentinel_Walk_17
+  - first:
+      213: 1129354602077458549
+    second: BiomechSentinel_Walk_18
+  - first:
+      213: -4644886215344071920
+    second: BiomechSentinel_Walk_19
+  - first:
+      213: 6542544683014249421
+    second: BiomechSentinel_Walk_20
+  - first:
+      213: -169732875950161312
+    second: BiomechSentinel_Walk_21
+  - first:
+      213: -3275237209242331961
+    second: BiomechSentinel_Walk_22
+  - first:
+      213: -4810623611413592301
+    second: BiomechSentinel_Walk_23
+  - first:
+      213: -554233762403704683
+    second: BiomechSentinel_Walk_24
+  - first:
+      213: 840006871741496339
+    second: BiomechSentinel_Walk_25
+  - first:
+      213: 6188973493118440678
+    second: BiomechSentinel_Walk_26
+  - first:
+      213: -270581542732090555
+    second: BiomechSentinel_Walk_27
+  - first:
+      213: -8851029381709272373
+    second: BiomechSentinel_Walk_28
+  - first:
+      213: -3291492329645711446
+    second: BiomechSentinel_Walk_29
+  - first:
+      213: -2830999104104520857
+    second: BiomechSentinel_Walk_30
+  - first:
+      213: 783140674445503886
+    second: BiomechSentinel_Walk_31
+  - first:
+      213: 6172941950920803333
+    second: BiomechSentinel_Walk_32
+  - first:
+      213: 1435223256961809629
+    second: BiomechSentinel_Walk_33
+  - first:
+      213: -1900540640619716464
+    second: BiomechSentinel_Walk_34
+  - first:
+      213: -4162141438955431940
+    second: BiomechSentinel_Walk_35
+  - first:
+      213: -4008859963462348868
+    second: BiomechSentinel_Walk_36
+  - first:
+      213: 9131050759357605896
+    second: BiomechSentinel_Walk_37
+  - first:
+      213: 753226320622712042
+    second: BiomechSentinel_Walk_38
+  - first:
+      213: 7084906307463847491
+    second: BiomechSentinel_Walk_39
+  - first:
+      213: 6073265833807092757
+    second: BiomechSentinel_Walk_40
+  - first:
+      213: -4656501933815212883
+    second: BiomechSentinel_Walk_41
+  - first:
+      213: -4083049420144980473
+    second: BiomechSentinel_Walk_42
+  - first:
+      213: -1300410613423410838
+    second: BiomechSentinel_Walk_43
+  - first:
+      213: -2219709300008246730
+    second: BiomechSentinel_Walk_44
+  - first:
+      213: -7760329984495352817
+    second: BiomechSentinel_Walk_45
+  - first:
+      213: -2855342249598686244
+    second: BiomechSentinel_Walk_46
+  - first:
+      213: 6302042885875720886
+    second: BiomechSentinel_Walk_47
+  - first:
+      213: 5764897435961841387
+    second: BiomechSentinel_Walk_48
+  - first:
+      213: -2159115950989602333
+    second: BiomechSentinel_Walk_49
+  - first:
+      213: -5747991161974136260
+    second: BiomechSentinel_Walk_50
+  - first:
+      213: -1228120603281908323
+    second: BiomechSentinel_Walk_51
+  - first:
+      213: 3571514608842417920
+    second: BiomechSentinel_Walk_52
+  - first:
+      213: -8227034907075583712
+    second: BiomechSentinel_Walk_53
+  - first:
+      213: -3696545168988495217
+    second: BiomechSentinel_Walk_54
+  - first:
+      213: 310299444401378088
+    second: BiomechSentinel_Walk_55
+  - first:
+      213: 8747697401879931930
+    second: BiomechSentinel_Walk_56
+  - first:
+      213: -4289673940870710478
+    second: BiomechSentinel_Walk_57
+  - first:
+      213: 6373141869088588093
+    second: BiomechSentinel_Walk_58
+  - first:
+      213: -6362419940243429427
+    second: BiomechSentinel_Walk_59
+  - first:
+      213: 4788469143554306136
+    second: BiomechSentinel_Walk_60
+  - first:
+      213: -513714348947214441
+    second: BiomechSentinel_Walk_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 170
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sentinel_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 520
+        width: 480
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046cd741b5e08cd4aae817c4370e6d3c
+      internalID: 1591607042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentinel_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 523
+        width: 473
+        height: 321
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf57c9654612eaf4186869a692b976a2
+      internalID: -1972978980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentinel_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 526
+        width: 504
+        height: 318
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bd47135721c724c97d965d47257c82
+      internalID: 399496482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentinel_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 529
+        height: 316
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6805f46dc08544a8ea5da65f8dedca
+      internalID: -1975603825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentinel_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 119
+        width: 434
+        height: 319
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8eba1ba6b8d694bb29e1c54d56a43f
+      internalID: 24876275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentinel_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 118
+        width: 509
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9308ec59aa6124ab21b57a514586ae
+      internalID: -1157321428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fdb88928f7fde2848b20026e18bc09d2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BiomechSentinel_Walk_0: -5968060187024592743
+      BiomechSentinel_Walk_1: 1269086095624341296
+      BiomechSentinel_Walk_10: -8213157247407070963
+      BiomechSentinel_Walk_11: -3737892323350834747
+      BiomechSentinel_Walk_12: 343270956496503699
+      BiomechSentinel_Walk_13: -6336779392407427082
+      BiomechSentinel_Walk_14: -3161118188563393243
+      BiomechSentinel_Walk_15: 3012442290036023720
+      BiomechSentinel_Walk_16: -4035249459218680338
+      BiomechSentinel_Walk_17: -3093196096162020383
+      BiomechSentinel_Walk_18: 1129354602077458549
+      BiomechSentinel_Walk_19: -4644886215344071920
+      BiomechSentinel_Walk_2: 1230131987589227145
+      BiomechSentinel_Walk_20: 6542544683014249421
+      BiomechSentinel_Walk_21: -169732875950161312
+      BiomechSentinel_Walk_22: -3275237209242331961
+      BiomechSentinel_Walk_23: -4810623611413592301
+      BiomechSentinel_Walk_24: -554233762403704683
+      BiomechSentinel_Walk_25: 840006871741496339
+      BiomechSentinel_Walk_26: 6188973493118440678
+      BiomechSentinel_Walk_27: -270581542732090555
+      BiomechSentinel_Walk_28: -8851029381709272373
+      BiomechSentinel_Walk_29: -3291492329645711446
+      BiomechSentinel_Walk_3: 8559711322816756224
+      BiomechSentinel_Walk_30: -2830999104104520857
+      BiomechSentinel_Walk_31: 783140674445503886
+      BiomechSentinel_Walk_32: 6172941950920803333
+      BiomechSentinel_Walk_33: 1435223256961809629
+      BiomechSentinel_Walk_34: -1900540640619716464
+      BiomechSentinel_Walk_35: -4162141438955431940
+      BiomechSentinel_Walk_36: -4008859963462348868
+      BiomechSentinel_Walk_37: 9131050759357605896
+      BiomechSentinel_Walk_38: 753226320622712042
+      BiomechSentinel_Walk_39: 7084906307463847491
+      BiomechSentinel_Walk_4: -4101070673969827835
+      BiomechSentinel_Walk_40: 6073265833807092757
+      BiomechSentinel_Walk_41: -4656501933815212883
+      BiomechSentinel_Walk_42: -4083049420144980473
+      BiomechSentinel_Walk_43: -1300410613423410838
+      BiomechSentinel_Walk_44: -2219709300008246730
+      BiomechSentinel_Walk_45: -7760329984495352817
+      BiomechSentinel_Walk_46: -2855342249598686244
+      BiomechSentinel_Walk_47: 6302042885875720886
+      BiomechSentinel_Walk_48: 5764897435961841387
+      BiomechSentinel_Walk_49: -2159115950989602333
+      BiomechSentinel_Walk_5: 5577734748145927062
+      BiomechSentinel_Walk_50: -5747991161974136260
+      BiomechSentinel_Walk_51: -1228120603281908323
+      BiomechSentinel_Walk_52: 3571514608842417920
+      BiomechSentinel_Walk_53: -8227034907075583712
+      BiomechSentinel_Walk_54: -3696545168988495217
+      BiomechSentinel_Walk_55: 310299444401378088
+      BiomechSentinel_Walk_56: 8747697401879931930
+      BiomechSentinel_Walk_57: -4289673940870710478
+      BiomechSentinel_Walk_58: 6373141869088588093
+      BiomechSentinel_Walk_59: -6362419940243429427
+      BiomechSentinel_Walk_6: -5216449434395666170
+      BiomechSentinel_Walk_60: 4788469143554306136
+      BiomechSentinel_Walk_61: -513714348947214441
+      BiomechSentinel_Walk_7: 719387781643650001
+      BiomechSentinel_Walk_8: -1673431436302995426
+      BiomechSentinel_Walk_9: 4373003319376605803
+      Sentinel_Walk_0: 1591607042
+      Sentinel_Walk_1: -1972978980
+      Sentinel_Walk_2: 399496482
+      Sentinel_Walk_3: -1975603825
+      Sentinel_Walk_4: 24876275
+      Sentinel_Walk_5: -1157321428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

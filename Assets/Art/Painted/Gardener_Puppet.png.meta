@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: 0465843307b4bbb45958640f7ef8c6a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1503037882901255758
+    second: Gardener_Puppet_0
+  - first:
+      213: -2243013741092752984
+    second: Gardener_Puppet_1
+  - first:
+      213: 121704564294325652
+    second: Gardener_Puppet_2
+  - first:
+      213: -3629462044195559993
+    second: Gardener_Puppet_3
+  - first:
+      213: 7447114770299427187
+    second: Gardener_Puppet_4
+  - first:
+      213: 1997797192569402070
+    second: Gardener_Puppet_5
+  - first:
+      213: -8342710170747439623
+    second: Gardener_Puppet_6
+  - first:
+      213: 4153574902289199239
+    second: Gardener_Puppet_7
+  - first:
+      213: -8086722673125228851
+    second: Gardener_Puppet_8
+  - first:
+      213: 4507932280337717684
+    second: Gardener_Puppet_9
+  - first:
+      213: -8362264238871913858
+    second: Gardener_Puppet_10
+  - first:
+      213: 3996265239116664459
+    second: Gardener_Puppet_11
+  - first:
+      213: -2959301363315547291
+    second: Gardener_Puppet_12
+  - first:
+      213: -5467934225120797130
+    second: Gardener_Puppet_13
+  - first:
+      213: 8478187949564649548
+    second: Gardener_Puppet_14
+  - first:
+      213: -5591341672404653511
+    second: Gardener_Puppet_15
+  - first:
+      213: -3626456881129300538
+    second: Gardener_Puppet_16
+  - first:
+      213: 7805519934896546354
+    second: Gardener_Puppet_17
+  - first:
+      213: -7719761853256086858
+    second: Gardener_Puppet_18
+  - first:
+      213: -625262387958866445
+    second: Gardener_Puppet_19
+  - first:
+      213: 8428114535539725189
+    second: Gardener_Puppet_20
+  - first:
+      213: -6533909450685702455
+    second: Gardener_Puppet_21
+  - first:
+      213: -5620716070298355227
+    second: Gardener_Puppet_22
+  - first:
+      213: 8525094139208354376
+    second: Gardener_Puppet_23
+  - first:
+      213: 7433756215794712375
+    second: Gardener_Puppet_24
+  - first:
+      213: -9132417592301277431
+    second: Gardener_Puppet_25
+  - first:
+      213: 4812526263184718239
+    second: Gardener_Puppet_26
+  - first:
+      213: -2494794550336681933
+    second: Gardener_Puppet_27
+  - first:
+      213: 4171152194330301860
+    second: Gardener_Puppet_28
+  - first:
+      213: 8834369183787850093
+    second: Gardener_Puppet_29
+  - first:
+      213: -1881717531240605389
+    second: Gardener_Puppet_30
+  - first:
+      213: 637893827040196855
+    second: Gardener_Puppet_31
+  - first:
+      213: 1296622028592423171
+    second: Gardener_Puppet_32
+  - first:
+      213: 745208915939348778
+    second: Gardener_Puppet_33
+  - first:
+      213: -3125166831050768720
+    second: Gardener_Puppet_34
+  - first:
+      213: 5509079772321604142
+    second: Gardener_Puppet_35
+  - first:
+      213: -3942260911728497701
+    second: Gardener_Puppet_36
+  - first:
+      213: 2340404911353591310
+    second: Gardener_Puppet_37
+  - first:
+      213: 8919485582975932745
+    second: Gardener_Puppet_38
+  - first:
+      213: -518024242605166194
+    second: Gardener_Puppet_39
+  - first:
+      213: 3569877216142887105
+    second: Gardener_Puppet_40
+  - first:
+      213: 5583493312415516856
+    second: Gardener_Puppet_41
+  - first:
+      213: -4515020274910303387
+    second: Gardener_Puppet_42
+  - first:
+      213: -7421982954025599328
+    second: Gardener_Puppet_43
+  - first:
+      213: 8024862782271440250
+    second: Gardener_Puppet_44
+  - first:
+      213: -5431580734971882724
+    second: Gardener_Puppet_45
+  - first:
+      213: 1694066914682235347
+    second: Gardener_Puppet_46
+  - first:
+      213: -1598750578927020374
+    second: Gardener_Puppet_47
+  - first:
+      213: 6469025242898649569
+    second: Gardener_Puppet_48
+  - first:
+      213: -8264942469731029172
+    second: Gardener_Puppet_49
+  - first:
+      213: 928125888758754076
+    second: Gardener_Puppet_50
+  - first:
+      213: 6194190314068769691
+    second: Gardener_Puppet_51
+  - first:
+      213: -5457794366110177976
+    second: Gardener_Puppet_52
+  - first:
+      213: 5616505551367067729
+    second: Gardener_Puppet_53
+  - first:
+      213: 8469457230602934036
+    second: Gardener_Puppet_54
+  - first:
+      213: 832638732335059690
+    second: Gardener_Puppet_55
+  - first:
+      213: 5800969482031504662
+    second: Gardener_Puppet_56
+  - first:
+      213: -4911458416636914361
+    second: Gardener_Puppet_57
+  - first:
+      213: -3456415919925698080
+    second: Gardener_Puppet_58
+  - first:
+      213: 8797328293852375514
+    second: Gardener_Puppet_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gardener_Puppet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 457
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b927b94203242be0800000000000000
+      internalID: -1503037882901255758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 229
+        width: 447
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1b8dfe2e63fd0e0800000000000000
+      internalID: -2243013741092752984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_2
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 663
+        width: 387
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4959e4a08a160b100800000000000000
+      internalID: 121704564294325652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_3
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 279
+        width: 395
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5e5f1208f81adc0800000000000000
+      internalID: -3629462044195559993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_4
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 998
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37913455d67795760800000000000000
+      internalID: 7447114770299427187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_5
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 981
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d23f5c36f999bb10800000000000000
+      internalID: 1997797192569402070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_6
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 987
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f57f802d4db83c80800000000000000
+      internalID: -8342710170747439623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_7
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 973
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780fce6fd5674a930800000000000000
+      internalID: 4153574902289199239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_8
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 937
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcef547f29036cf80800000000000000
+      internalID: -8086722673125228851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_9
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 959
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9db0166846f8e30800000000000000
+      internalID: 4507932280337717684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_10
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 965
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a561cdaf443fb80800000000000000
+      internalID: -8362264238871913858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_11
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 955
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e4ac5df06957730800000000000000
+      internalID: 3996265239116664459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_12
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 724
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5636f30d6137ee6d0800000000000000
+      internalID: -2959301363315547291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 337
+        width: 281
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e5978eacefd14b0800000000000000
+      internalID: -5467934225120797130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_14
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 625
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c406cc0550398a570800000000000000
+      internalID: 8478187949564649548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_15
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 599
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a6b768f509762b0800000000000000
+      internalID: -5591341672404653511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_16
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 339
+        width: 247
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd540f2eac3cadc0800000000000000
+      internalID: -3626456881129300538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_17
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 524
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2322dbe7607c25c60800000000000000
+      internalID: 7805519934896546354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_18
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 543
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba4f0ade75edd490800000000000000
+      internalID: -7719761853256086858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_19
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 535
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd9c42cb2f9257f0800000000000000
+      internalID: -625262387958866445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 545
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583d629148da6f470800000000000000
+      internalID: 8428114535539725189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_21
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 519
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce9f4509f3e255a0800000000000000
+      internalID: -6533909450685702455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_22
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 494
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9798e83843ff1b0800000000000000
+      internalID: -5620716070298355227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_23
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 493
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a4744a3f73f4670800000000000000
+      internalID: 8525094139208354376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_24
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 452
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fbb4d74e10a2760800000000000000
+      internalID: 7433756215794712375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_25
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 451
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90faa5ed592234180800000000000000
+      internalID: -9132417592301277431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_26
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 449
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99fc55732789c240800000000000000
+      internalID: 4812526263184718239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_27
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 459
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3380a9f0395b06dd0800000000000000
+      internalID: -2494794550336681933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5162f22d8e2e930800000000000000
+      internalID: 4171152194330301860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_29
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 439
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69155657fbf99a70800000000000000
+      internalID: 8834369183787850093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_30
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 423
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33957c600ebc2e5e0800000000000000
+      internalID: -1881717531240605389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_31
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 371
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f835255e014ad800800000000000000
+      internalID: 637893827040196855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_32
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 383
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301a23e7dd68ef110800000000000000
+      internalID: 1296622028592423171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_33
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 406
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21d40e8f83875a00800000000000000
+      internalID: 745208915939348778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0beb263335d21a4d0800000000000000
+      internalID: -3125166831050768720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_35
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 367
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22e4845dde247c40800000000000000
+      internalID: 5509079772321604142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_36
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 362
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbe38876964a49c0800000000000000
+      internalID: -3942260911728497701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_37
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 373
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e067fcbedd9ca7020800000000000000
+      internalID: 2340404911353591310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_38
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 283
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9499f7851e068cb70800000000000000
+      internalID: 8919485582975932745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_39
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 0
+        width: 417
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e817a7a22bb9fc8f0800000000000000
+      internalID: -518024242605166194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_40
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 187
+        width: 111
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c805fff960ca8130800000000000000
+      internalID: 3569877216142887105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_41
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 332
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8cb44c59d8c7d40800000000000000
+      internalID: 5583493312415516856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_42
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 321
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56be8484bfc6751c0800000000000000
+      internalID: -4515020274910303387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_43
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 281
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aebc40a3d1dff890800000000000000
+      internalID: -7421982954025599328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75ca84de2a0e5f60800000000000000
+      internalID: 8024862782271440250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_45
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 0
+        width: 322
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13552b69162f94b0800000000000000
+      internalID: -5431580734971882724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_46
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 215
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9606322e8828710800000000000000
+      internalID: 1694066914682235347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_47
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 235
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6da9aa1d810d9e0800000000000000
+      internalID: -1598750578927020374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_48
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 248
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1520e1f2896c950800000000000000
+      internalID: 6469025242898649569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_49
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 227
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f64a20d960d4d80800000000000000
+      internalID: -8264942469731029172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_50
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 195
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b2f42149d51ec00800000000000000
+      internalID: 928125888758754076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_51
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 167
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bfb3db54f26f550800000000000000
+      internalID: 6194190314068769691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_52
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 169
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845efdec0f40244b0800000000000000
+      internalID: -5457794366110177976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_53
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 133
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1585e3c9a06d1fd40800000000000000
+      internalID: 5616505551367067729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_54
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 71
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41793766a7e898570800000000000000
+      internalID: 8469457230602934036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_55
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 49
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2101bf3802e8b00800000000000000
+      internalID: 832638732335059690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_56
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d9e51520f218050800000000000000
+      internalID: 5800969482031504662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_57
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 15
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7451143979ef6dbb0800000000000000
+      internalID: -4911458416636914361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_58
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 15
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1e2d0a8085800d0800000000000000
+      internalID: -3456415919925698080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Puppet_59
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 15
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad960971973661a70800000000000000
+      internalID: 8797328293852375514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gardener_Puppet_0: -1503037882901255758
+      Gardener_Puppet_1: -2243013741092752984
+      Gardener_Puppet_10: -8362264238871913858
+      Gardener_Puppet_11: 3996265239116664459
+      Gardener_Puppet_12: -2959301363315547291
+      Gardener_Puppet_13: -5467934225120797130
+      Gardener_Puppet_14: 8478187949564649548
+      Gardener_Puppet_15: -5591341672404653511
+      Gardener_Puppet_16: -3626456881129300538
+      Gardener_Puppet_17: 7805519934896546354
+      Gardener_Puppet_18: -7719761853256086858
+      Gardener_Puppet_19: -625262387958866445
+      Gardener_Puppet_2: 121704564294325652
+      Gardener_Puppet_20: 8428114535539725189
+      Gardener_Puppet_21: -6533909450685702455
+      Gardener_Puppet_22: -5620716070298355227
+      Gardener_Puppet_23: 8525094139208354376
+      Gardener_Puppet_24: 7433756215794712375
+      Gardener_Puppet_25: -9132417592301277431
+      Gardener_Puppet_26: 4812526263184718239
+      Gardener_Puppet_27: -2494794550336681933
+      Gardener_Puppet_28: 4171152194330301860
+      Gardener_Puppet_29: 8834369183787850093
+      Gardener_Puppet_3: -3629462044195559993
+      Gardener_Puppet_30: -1881717531240605389
+      Gardener_Puppet_31: 637893827040196855
+      Gardener_Puppet_32: 1296622028592423171
+      Gardener_Puppet_33: 745208915939348778
+      Gardener_Puppet_34: -3125166831050768720
+      Gardener_Puppet_35: 5509079772321604142
+      Gardener_Puppet_36: -3942260911728497701
+      Gardener_Puppet_37: 2340404911353591310
+      Gardener_Puppet_38: 8919485582975932745
+      Gardener_Puppet_39: -518024242605166194
+      Gardener_Puppet_4: 7447114770299427187
+      Gardener_Puppet_40: 3569877216142887105
+      Gardener_Puppet_41: 5583493312415516856
+      Gardener_Puppet_42: -4515020274910303387
+      Gardener_Puppet_43: -7421982954025599328
+      Gardener_Puppet_44: 8024862782271440250
+      Gardener_Puppet_45: -5431580734971882724
+      Gardener_Puppet_46: 1694066914682235347
+      Gardener_Puppet_47: -1598750578927020374
+      Gardener_Puppet_48: 6469025242898649569
+      Gardener_Puppet_49: -8264942469731029172
+      Gardener_Puppet_5: 1997797192569402070
+      Gardener_Puppet_50: 928125888758754076
+      Gardener_Puppet_51: 6194190314068769691
+      Gardener_Puppet_52: -5457794366110177976
+      Gardener_Puppet_53: 5616505551367067729
+      Gardener_Puppet_54: 8469457230602934036
+      Gardener_Puppet_55: 832638732335059690
+      Gardener_Puppet_56: 5800969482031504662
+      Gardener_Puppet_57: -4911458416636914361
+      Gardener_Puppet_58: -3456415919925698080
+      Gardener_Puppet_59: 8797328293852375514
+      Gardener_Puppet_6: -8342710170747439623
+      Gardener_Puppet_7: 4153574902289199239
+      Gardener_Puppet_8: -8086722673125228851
+      Gardener_Puppet_9: 4507932280337717684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

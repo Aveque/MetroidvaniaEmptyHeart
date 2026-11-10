@@ -1,0 +1,16 @@
+Generated with the built-in image_gen tool. No CLI or external API key.
+
+RootBark.png:
+Seamless tileable surface texture for a dark hand-painted 2D biomechanical game. Dense interwoven ancient tree bark, woody roots, dark peat, thin ivory vascular fibers and small patches of muted moss. No machinery panels, no metal sheets, no floor skyline, no isolated objects, no perspective. Organic irregular material fills the whole square uniformly. Very dark desaturated olive brown, readable fibrous grain, low contrast, elegant painterly detail. Seamless all edges. This is the actual cutaway material inside solid roots and walls.
+
+MiddleTrunks.png (transparent):
+A wide seamless horizontal parallax layer for a side view dark hand painted 2D biomechanical forest game. Several tall ancient tree trunks entangled with slender copper nutrient pipes, delicate hanging roots and fern silhouettes, distributed with broad transparent gaps between the trunks. Trunks extend off top and bottom edges, varied thickness and spacing, no solid ground, no horizon, no background. Muted deep teal and forest green with soft pale bioluminescent buds, distant atmospheric low contrast painting. Transparent background. No characters, text or UI.
+
+NearVines.png (transparent):
+Wide transparent foreground border layer for dark hand painted 2D biomechanical metroidvania: hanging slender leafy tendrils and vascular vines attached along the top edge, sparse fern fronds entering from the left and right edges. Most central and bottom canvas fully empty transparent. Deep dark green silhouettes, organic delicate shapes, subtle copper strands. No floor, no background, no text. Horizontal composition designed to frame a game camera and move with foreground parallax.
+
+SeedAltar.png (transparent):
+Isolated game environment point of interest on transparent background: a large ancient botanical incubation altar, an open root-and-copper cradle holding one bright ivory green heart shaped seed, arched root cage, broken glass nutrient vessels and fern growth. Clearly grounded broad stable base, no detached parts, side-on 2D game view, dark hand painted biomechanical art. Small green luminous core readable at gameplay scale, desaturated bronze brown bark, no characters, no labels, transparent margins.
+
+RootSeal.png (transparent):
+Dark hand painted 2D game sprite on actual transparent background. A narrow vertical curtain of interwoven living roots sealing a doorway, anchored by tapering tendrils at top and bottom, a distinct round pale jade bioluminescent closed bud at its center with copper vascular veins radiating from it. Readable organic silhouette, dark olive and rich bark brown, ivory fine fibers, no machinery panels, no environment, no text. Full object isolated with transparent margins. Side view, approximately three times taller than wide. This is an interactable plant lock in a biomechanical metroidvania.

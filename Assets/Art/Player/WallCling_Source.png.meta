@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 4e7d9d7a23ebe2c44a172fbb2e1aaf59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4964070483804663703
+    second: WallCling_Source_0
+  - first:
+      213: 5225191061268572130
+    second: WallCling_Source_1
+  - first:
+      213: -6008386886715432216
+    second: WallCling_Source_2
+  - first:
+      213: 6949645242225081536
+    second: WallCling_Source_3
+  - first:
+      213: -4323151629110438878
+    second: WallCling_Source_4
+  - first:
+      213: -4368419363046004653
+    second: WallCling_Source_5
+  - first:
+      213: 2505248356491675857
+    second: WallCling_Source_6
+  - first:
+      213: -3554316717881144462
+    second: WallCling_Source_7
+  - first:
+      213: 3973737390407593890
+    second: WallCling_Source_8
+  - first:
+      213: -59338204281197543
+    second: WallCling_Source_9
+  - first:
+      213: -6574245912294910436
+    second: WallCling_Source_10
+  - first:
+      213: -6457451770786854955
+    second: WallCling_Source_11
+  - first:
+      213: -2322015346310579355
+    second: WallCling_Source_12
+  - first:
+      213: 4873231800952093921
+    second: WallCling_Source_13
+  - first:
+      213: 694210019964204122
+    second: WallCling_Source_14
+  - first:
+      213: -2849676372417762217
+    second: WallCling_Source_15
+  - first:
+      213: 6560918087133287586
+    second: WallCling_Source_16
+  - first:
+      213: -1639268518023723111
+    second: WallCling_Source_17
+  - first:
+      213: 7475976623127051670
+    second: WallCling_Source_18
+  - first:
+      213: 6576390280394760377
+    second: WallCling_Source_19
+  - first:
+      213: -856773239240427085
+    second: WallCling_Source_20
+  - first:
+      213: 3920347947071634820
+    second: WallCling_Source_21
+  - first:
+      213: -1874928515199062448
+    second: WallCling_Source_22
+  - first:
+      213: 4740431633667517498
+    second: WallCling_Source_23
+  - first:
+      213: 4284208684711909346
+    second: WallCling_Source_24
+  - first:
+      213: 1411141652791845375
+    second: WallCling_Source_25
+  - first:
+      213: -8596233485823528374
+    second: WallCling_Source_26
+  - first:
+      213: 991882414285376080
+    second: WallCling_Source_27
+  - first:
+      213: -8156752121567178968
+    second: WallCling_Source_28
+  - first:
+      213: 1610120946009744863
+    second: WallCling_Source_29
+  - first:
+      213: -1222038500289068564
+    second: WallCling_Source_30
+  - first:
+      213: 8846653740399119799
+    second: WallCling_Source_31
+  - first:
+      213: 3390535281145344654
+    second: WallCling_Source_32
+  - first:
+      213: 1303045306412078236
+    second: WallCling_Source_33
+  - first:
+      213: 3034093409155291821
+    second: WallCling_Source_34
+  - first:
+      213: 8028268380225612037
+    second: WallCling_Source_35
+  - first:
+      213: 7733516862892106491
+    second: WallCling_Source_36
+  - first:
+      213: 4550789441745233356
+    second: WallCling_Source_37
+  - first:
+      213: 5661234846791296142
+    second: WallCling_Source_38
+  - first:
+      213: 6123527616341851552
+    second: WallCling_Source_39
+  - first:
+      213: -7004571551070873668
+    second: WallCling_Source_40
+  - first:
+      213: 4241889106427874408
+    second: WallCling_Source_41
+  - first:
+      213: 1796171452355050644
+    second: WallCling_Source_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WallCling_Source_0
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1213
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fad23edcbe3e440800000000000000
+      internalID: 4964070483804663703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_1
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1229
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7a572069b938840800000000000000
+      internalID: 5225191061268572130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1209
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e22638d5fbed9ca0800000000000000
+      internalID: -6008386886715432216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_3
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 688
+        height: 1215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc3fc9e689127060800000000000000
+      internalID: 6949645242225081536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1189
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22498b49f741104c0800000000000000
+      internalID: -4323151629110438878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_5
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1197
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35864b3fbb14063c0800000000000000
+      internalID: -4368419363046004653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 548
+        width: 520
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d841da5b1e64c220800000000000000
+      internalID: 2505248356491675857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_7
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1197
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b4673d6c78caec0800000000000000
+      internalID: -3554316717881144462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_8
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1197
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afaee15a1d852730800000000000000
+      internalID: 3973737390407593890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1165
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ca534b7303d2ff0800000000000000
+      internalID: -59338204281197543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1161
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c161993bc2693c4a0800000000000000
+      internalID: -6574245912294910436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_11
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1146
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d74808d3d58266a0800000000000000
+      internalID: -6457451770786854955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_12
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1108
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bf628585b86cfd0800000000000000
+      internalID: -2322015346310579355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 907
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecf2e3e08231a340800000000000000
+      internalID: 4873231800952093921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_14
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 889
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54bb77c55452a900800000000000000
+      internalID: 694210019964204122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 856
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c2731007ae378d0800000000000000
+      internalID: -2849676372417762217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_16
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 803
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4d3003d301d0b50800000000000000
+      internalID: 6560918087133287586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 761
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99707b3d7f52049e0800000000000000
+      internalID: -1639268518023723111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 763
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dbc9a112100c760800000000000000
+      internalID: 7475976623127051670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_19
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 747
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0e247ed18044b50800000000000000
+      internalID: 6576390280394760377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_20
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 761
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9730e37412c14f0800000000000000
+      internalID: -856773239240427085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_21
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 737
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48df22ddfafd76630800000000000000
+      internalID: 3920347947071634820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_22
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 722
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e2f40037aeaf5e0800000000000000
+      internalID: -1874928515199062448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_23
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 690
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ce6c6747569c140800000000000000
+      internalID: 4740431633667517498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 626
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e795eb9911947b30800000000000000
+      internalID: 4284208684711909346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_25
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 628
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff16a6e4bd1659310800000000000000
+      internalID: 1411141652791845375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_26
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 618
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42bb2f703b04b880800000000000000
+      internalID: -8596233485823528374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_27
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 633
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05acf62fccfd3cd00800000000000000
+      internalID: 991882414285376080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_28
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 606
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f031969256dce80800000000000000
+      internalID: -8156752121567178968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_29
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 594
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5a358387c485610800000000000000
+      internalID: 1610120946009744863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 570
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce14b6865727a0fe0800000000000000
+      internalID: -1222038500289068564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 431
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdce5f84b0a5ca70800000000000000
+      internalID: 8846653740399119799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_32
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 83
+        width: 420
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82f817dfd99d0f20800000000000000
+      internalID: 3390535281145344654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_33
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 513
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c949ee66dc8551210800000000000000
+      internalID: 1303045306412078236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_34
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 497
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa1e0c51e34b1a20800000000000000
+      internalID: 3034093409155291821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_35
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 503
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50929d46e832a6f60800000000000000
+      internalID: 8028268380225612037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_36
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 496
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf26d25ec98f25b60800000000000000
+      internalID: 7733516862892106491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_37
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 223
+        width: 86
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5a2dad2e6a72f30800000000000000
+      internalID: 4550789441745233356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 465
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84ee01491fb09e40800000000000000
+      internalID: 5661234846791296142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_39
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 288
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adb9585ce32bf450800000000000000
+      internalID: 6123527616341851552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_40
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 215
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb71d9e3943cace90800000000000000
+      internalID: -7004571551070873668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 31
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c8b35faa73eda30800000000000000
+      internalID: 4241889106427874408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCling_Source_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 111
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cf15d5b684de810800000000000000
+      internalID: 1796171452355050644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WallCling_Source_0: 4964070483804663703
+      WallCling_Source_1: 5225191061268572130
+      WallCling_Source_10: -6574245912294910436
+      WallCling_Source_11: -6457451770786854955
+      WallCling_Source_12: -2322015346310579355
+      WallCling_Source_13: 4873231800952093921
+      WallCling_Source_14: 694210019964204122
+      WallCling_Source_15: -2849676372417762217
+      WallCling_Source_16: 6560918087133287586
+      WallCling_Source_17: -1639268518023723111
+      WallCling_Source_18: 7475976623127051670
+      WallCling_Source_19: 6576390280394760377
+      WallCling_Source_2: -6008386886715432216
+      WallCling_Source_20: -856773239240427085
+      WallCling_Source_21: 3920347947071634820
+      WallCling_Source_22: -1874928515199062448
+      WallCling_Source_23: 4740431633667517498
+      WallCling_Source_24: 4284208684711909346
+      WallCling_Source_25: 1411141652791845375
+      WallCling_Source_26: -8596233485823528374
+      WallCling_Source_27: 991882414285376080
+      WallCling_Source_28: -8156752121567178968
+      WallCling_Source_29: 1610120946009744863
+      WallCling_Source_3: 6949645242225081536
+      WallCling_Source_30: -1222038500289068564
+      WallCling_Source_31: 8846653740399119799
+      WallCling_Source_32: 3390535281145344654
+      WallCling_Source_33: 1303045306412078236
+      WallCling_Source_34: 3034093409155291821
+      WallCling_Source_35: 8028268380225612037
+      WallCling_Source_36: 7733516862892106491
+      WallCling_Source_37: 4550789441745233356
+      WallCling_Source_38: 5661234846791296142
+      WallCling_Source_39: 6123527616341851552
+      WallCling_Source_4: -4323151629110438878
+      WallCling_Source_40: -7004571551070873668
+      WallCling_Source_41: 4241889106427874408
+      WallCling_Source_42: 1796171452355050644
+      WallCling_Source_5: -4368419363046004653
+      WallCling_Source_6: 2505248356491675857
+      WallCling_Source_7: -3554316717881144462
+      WallCling_Source_8: 3973737390407593890
+      WallCling_Source_9: -59338204281197543
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

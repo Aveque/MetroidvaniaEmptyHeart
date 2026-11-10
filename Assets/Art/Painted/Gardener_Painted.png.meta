@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: b799e518819a4054fb2c3912a1e25aa2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5871519302079067521
+    second: Gardener_Painted_0
+  - first:
+      213: -7160584555305267586
+    second: Gardener_Painted_1
+  - first:
+      213: -6491365006259490403
+    second: Gardener_Painted_2
+  - first:
+      213: 4837498538090871911
+    second: Gardener_Painted_3
+  - first:
+      213: 3561165625648514634
+    second: Gardener_Painted_4
+  - first:
+      213: 7021393621603648574
+    second: Gardener_Painted_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75.9375
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gardener_Painted_00
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 773
+        width: 315
+        height: 140
+      alignment: 9
+      pivot: {x: 0.4940476, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fd66afbfb8e6040b736378454aface
+      internalID: 1056431185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Painted_01
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 768
+        width: 362
+        height: 213
+      alignment: 9
+      pivot: {x: 0.47962707, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48538d26bbc64f644ab3291fa24a55e7
+      internalID: 18074897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Painted_02
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 765
+        width: 337
+        height: 253
+      alignment: 9
+      pivot: {x: 0.48256677, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd44292bcf40ec4dba508d8c5b9ae78
+      internalID: -749301073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Painted_03
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 766
+        width: 331
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5154834, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065b1bbd0529e00459327ebb085ac395
+      internalID: 541765921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Painted_04
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 514
+        width: 343
+        height: 244
+      alignment: 9
+      pivot: {x: 0.4828717, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c598b85c9791234f8176e484b04b665
+      internalID: 901323844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Painted_05
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 513
+        width: 348
+        height: 245
+      alignment: 9
+      pivot: {x: 0.50179595, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f76af13f50efc249bab71463c8d8ecf
+      internalID: -1653393717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Painted_06
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 513
+        width: 346
+        height: 245
+      alignment: 9
+      pivot: {x: 0.496026, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7860f91cca3ba2646befe01651f30674
+      internalID: -1697146612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Painted_07
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 514
+        width: 334
+        height: 238
+      alignment: 9
+      pivot: {x: 0.51983535, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8a86631208b354ea8335210739a024
+      internalID: -59303094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Painted_08
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 241
+        width: 321
+        height: 270
+      alignment: 9
+      pivot: {x: 0.46923676, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a33e3625902ef24a8c896ffcde776ae
+      internalID: 2067288971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Painted_09
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 239
+        width: 340
+        height: 281
+      alignment: 9
+      pivot: {x: 0.5194853, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15849a0bceba2a64f93ae380d0718512
+      internalID: 622501431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Painted_10
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 239
+        width: 505
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5655941, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78a7661792394340bde22a2a80c4610
+      internalID: 1579760350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Painted_11
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 239
+        width: 341
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5032991, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88facc0d519c154cae3f0a5794cf9f8
+      internalID: 321817850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Painted_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 11
+        width: 302
+        height: 231
+      alignment: 9
+      pivot: {x: 0.4656457, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0435b542f959df44d83d5267c27b7414
+      internalID: 1386030058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Painted_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 10
+        width: 316
+        height: 231
+      alignment: 9
+      pivot: {x: 0.50197786, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b388bb2bff8d824d8f4e45643b8aaa0
+      internalID: 237291703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Painted_14
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 16
+        width: 346
+        height: 176
+      alignment: 9
+      pivot: {x: 0.4873555, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05e33f221006c94582dd1801a32b826
+      internalID: 184874989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardener_Painted_15
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 16
+        width: 356
+        height: 132
+      alignment: 9
+      pivot: {x: 0.55231744, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793336f3fa227c24b88e8c7de9194c5b
+      internalID: -817090259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 30216b300b7a77346bd3a00357a85c89
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gardener_Painted_00: 1056431185
+      Gardener_Painted_01: 18074897
+      Gardener_Painted_02: -749301073
+      Gardener_Painted_03: 541765921
+      Gardener_Painted_04: 901323844
+      Gardener_Painted_05: -1653393717
+      Gardener_Painted_06: -1697146612
+      Gardener_Painted_07: -59303094
+      Gardener_Painted_08: 2067288971
+      Gardener_Painted_09: 622501431
+      Gardener_Painted_10: 1579760350
+      Gardener_Painted_11: 321817850
+      Gardener_Painted_12: 1386030058
+      Gardener_Painted_13: 237291703
+      Gardener_Painted_14: 184874989
+      Gardener_Painted_15: -817090259
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
